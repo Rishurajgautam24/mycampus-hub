@@ -1,0 +1,17 @@
+[project]
+name = "mycampus-hub"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "autogen>=0.10.4",
+    "pyautogen>=0.10.0",
+    "python-dotenv>=1.2.1",
+    "pyyaml>=6.0.3",
+]
+
+[tool.uv.workspace]
+members = [
+    "demo",
+]
