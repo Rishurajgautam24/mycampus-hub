@@ -46,7 +46,7 @@ The agent uses a two-agent architecture (Assistant + User Proxy) with the email 
 
 > Video tutorial coming soon! Subscribe to the channel for updates.
 
-[![MyCampus](./EmailAgent.png)](https://www.youtube.com/@myowncampus)
+[![MyCampus](./EmailAgent.png)](https://youtu.be/SvJ7IL4SF8Y)
 
 ## 🚀 How to Run
 
