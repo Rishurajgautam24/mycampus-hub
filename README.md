@@ -18,6 +18,7 @@ This repository serves as a **learning hub** containing multiple hands-on projec
 |---------|-------------|--------|
 | [AI Agent from Scratch](./ai-agent-from-scratch/) | Build a ReAct AI agent with tool calling using AutoGen | ✅ Ready |
 | [AutoGen Code Agent](./autogen-code-agent/) | Code execution agent that writes and runs Python code | ✅ Ready |
+| [Email AI Agent](./email-ai-agent/) | Multi-tool AI agent that sends professionally formatted emails and performs calculations | ✅ Ready |
 
 > 📢 **More projects coming soon!** This repo gets frequent updates with new projects.
 
@@ -84,6 +85,7 @@ All projects share common dependencies managed via `pyproject.toml`:
 - `pyautogen` - AutoGen Python package
 - `python-dotenv` - Environment variable management
 - `pyyaml` - YAML configuration parsing
+- `resend` - Email API client (for Email AI Agent)
 
 ## 🤝 Contributing
 

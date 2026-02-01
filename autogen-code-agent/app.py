@@ -74,5 +74,3 @@ user_proxy.initiate_chat(
     assistant,
     message=task,
 )
-
-print("\nTask completed. Check the 'coding' directory for the 'current_time.txt' file.")
